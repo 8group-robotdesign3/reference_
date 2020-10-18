@@ -15,10 +15,7 @@
 - 手を後ろに移動させてものを投げる準備をする。
 - そのままポイ捨てする。
 - 何もなかったように図々しく元の所に戻る。
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/45LUtRsENkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
+[![](https://img.youtube.com/vi/45LUtRsENkM&feature=emb_logo/0.jpg)](https://www.youtube.com/watch?v=45LUtRsENkM&feature=emb_logo)
 
 面白さ
 =============
