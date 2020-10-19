@@ -34,7 +34,7 @@
 =============
 
 - Crane_x7に対して姿勢値を送るトピックに姿勢値を送信できるノードをpythonやc++で作る。
- <img src= "https://github.com/8group-robotdesign3/reference_/blob/main/node_relationship.png" width="700" >
+ <img src= "https://github.com/8group-robotdesign3/reference_/blob/main/relationship.png" width="700" >
 
 スケジュール
 =============
