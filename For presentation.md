@@ -29,8 +29,6 @@
 - ROS melodic
 - ペットボトルの蓋
 - Crane_x7
-- gazebo
-- rviz
 
 システム構成
 =============
