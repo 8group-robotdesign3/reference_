@@ -61,7 +61,7 @@ crane_x7が目の前に落ちているペットボトルキャップを拾って
 
 <img src=https://github.com/8group-robotdesign3/crane_x7_ros/blob/master/crane_x7_examples/uekara.png width=500px />
 
-<img src=https://github.com/8group-robotdesign3/crane_x7_ros/blob/master/crane_x7_examples/yokokara.pnghttps://github.com/8group-robotdesign3/crane_x7_ros/blob/master/crane_x7_examples/yokokara.png width=500px />
+<img src=https://github.com/8group-robotdesign3/crane_x7_ros/blob/master/crane_x7_examples/yokokara.png width=500px />
 
 次のコマンドで実行します。
 
